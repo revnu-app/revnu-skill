@@ -1,0 +1,25 @@
+MIT License
+
+Copyright (c) 2026 Revnu (https://revnu.app)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this skill definition and associated documentation files (the "Skill"), to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Skill, and to permit persons to whom the Skill is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Skill.
+
+This license applies solely to the agent skill files in this repository. It
+does not grant any license to the Revnu platform, software, services, APIs, or
+any other Revnu intellectual property. Use of the Revnu platform is governed by
+the Revnu Terms of Service at https://revnu.app/terms.
+
+THE SKILL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SKILL OR THE USE OR OTHER DEALINGS IN THE
+SKILL.

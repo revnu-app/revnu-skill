@@ -1,6 +1,13 @@
 ---
 name: revnu
-description: Manage Revnu stores, products, licenses, analytics, coupons, affiliates, purchases, and A/B tests via the Revnu CLI
+description: Sell software, SaaS, and digital products with Revnu. Manage stores, products, subscriptions, license keys, analytics, coupons, affiliates, purchases, and A/B tests from your coding agent via the Revnu CLI.
+license: MIT (skill files only; Revnu platform has separate terms)
+compatibility: Requires Node.js 18+ and the @revnu/setup CLI package
+metadata:
+  author: revnu-app
+  version: "1.0"
+  website: https://revnu.app
+  category: commerce
 ---
 
 # Revnu CLI Agent Skill
